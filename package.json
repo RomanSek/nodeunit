@@ -84,6 +84,7 @@
     "nodeunit": "./bin/nodeunit"
   },
   "dependencies": {
+    "extend": "^2.0.0",
     "tap": ">=0.2.3"
   },
   "scripts": {
